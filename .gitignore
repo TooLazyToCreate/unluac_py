@@ -1,0 +1,8 @@
+**/__pycache__
+**/.pytest_cache
+src/*.egg-info/
+tests/lua/*/
+build/
+.vscode/
+.idea/
+.venv/
