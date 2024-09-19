@@ -1,7 +1,7 @@
 **/__pycache__
 **/.pytest_cache
-src/*.egg-info/
-tests/lua/*/
+*.egg-info/
+test/lua/*/
 build/
 .vscode/
 .idea/
